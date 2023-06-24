@@ -1,5 +1,5 @@
 # System Analysis and Design
-This is my portfolio for System Analysis and Design course at Southern New Hampshire University. The Business Requirements Document (BRD), Model Application Short Paper, and System Design Document (SDD) artifacts in this portfolio demonstrate my proficiency in the following competencies:
+This is my portfolio for CS-255 System Analysis and Design course at Southern New Hampshire University. The Business Requirements Document (BRD), Model Application Short Paper, and System Design Document (SDD) artifacts in this portfolio demonstrate my proficiency in the following competencies:
 * Ability to explain the principles, methods, and techniques of systems development
 * Ability to create various system models through the application of appropriate tools
 * Ability to present and articulate technical concepts to nontechnical audiences
